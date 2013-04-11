@@ -373,5 +373,5 @@
 
   <project path="packages/wallpapers/SwagPapers" name="AOKP/packages_wallpapers_SwagPapers_v2" remote="aokp" revision="jb-mr1" />
 
-  <project path="platform_manifest" name="TheBr0ken/platform_manifest" remote="gh" revision="jb-mr1" />
+  <project path="platform_manifest" name="TheBr0ken/platform_manifest" remote="gh" revision="vanilla" />
 </manifest>
