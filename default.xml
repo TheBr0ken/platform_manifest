@@ -256,7 +256,7 @@
   <project path="hardware/ti/omap4xxx" name="CyanogenMod/android_hardware_ti_omap4xxx" remote="cm" revision="cm-10.1" />
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" remote="cm" revision="cm-10.1" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" remote="cm" revision="cm-10.1" />
-  <project path="kernel/htc/vigor-3.0" name="TheBroken/funky_kernel" remote="gh" revision="aosp-jbexp" />
+  <project path="kernel/htc/vigor-3.0" name="TheBr0ken/funky_kernel" remote="gh" revision="aosp-jbexp" />
   <project path="libcore" name="platform/libcore" />
   <project path="libnativehelper" name="platform/libnativehelper" />
   <project path="ndk" name="platform/ndk" />
