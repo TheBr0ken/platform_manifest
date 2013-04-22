@@ -343,7 +343,7 @@
   <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" groups="linux" />
   <project path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" groups="linux" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" groups="linux" />
-  <project path="prebuilts/gcc/linux-x86/linaro" name="VigorCM9/linaro" remote="gh" revision="13.02" />
+  <project path="prebuilts/gcc/linux-x86/linaro" name="VigorCM9/linaro" remote="gh" revision="13.04" />
   <project path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" groups="linux,mips" />
   <project path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" groups="linux,x86" />
   <project path="prebuilts/misc" name="AOKP/prebuilts_misc" remote="aokp" revision="jb-mr1" />
